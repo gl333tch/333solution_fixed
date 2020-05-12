@@ -95,6 +95,7 @@ clear: both;
    p {
     font-size: 95%;
  padding: 10px;
+ height: 250px;
       }
      h4{
   text-align: center;
