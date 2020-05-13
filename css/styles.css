@@ -8,7 +8,7 @@
 
 /** HEADER **/
 #header-nav {
-  background-color: #ffb3ff;
+  background-color: #b2ad7f;
     border-radius: 0;
     border: 1px solid #61122f;
   }
@@ -75,13 +75,14 @@ clear: both;
 /* HOME PAGE*/
 
 .container {
-    background-color: #ffb3ff;
+    background-color: #b2ad7f;
       padding: 0;
+      width: 100%;
   }
 
 
   .container-fluid{
-    background-color: magenta;
+    background-color: #b5e7a0;
     margin-left: 25px;
   margin-right: 25px;
   position: relative;
@@ -91,11 +92,10 @@ clear: both;
 }
 
 
-
    p {
     font-size: 95%;
  padding: 10px;
- height: 250px;
+ 
       }
      h4{
   text-align: center;
